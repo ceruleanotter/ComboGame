@@ -1,0 +1,28 @@
+{
+  "name": "combo-game",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "combo": "git+ssh://git@github.com/namuol/combo.js.git",
+    "coffee-script": "^1.7.1",
+    "coffeeify": "^0.6.0",
+    "uglify-js": "^2.4.13",
+    "exorcist": "^0.1.6",
+    "gulp-util": "^2.2.14",
+    "gulp": "^3.6.1",
+    "browserify": "^3.44.1",
+    "vinyl-source-stream": "^0.1.1",
+    "watchify": "^0.7.2",
+    "gulp-if": "^1.0.0",
+    "gulp-streamify": "0.0.5",
+    "gulp-uglify": "^0.2.1",
+    "through2": "^0.4.1",
+    "gulp-open": "^0.2.8",
+    "gulp-connect": "^2.0.5",
+    "gulp-notify": "^1.2.5"
+
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
