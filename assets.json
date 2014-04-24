@@ -1,0 +1,18 @@
+{
+  "textures": {
+    "logo": "assets/logo.png",
+    "trogdor": "assets/trogdor.png"
+  },
+  "sheets": {
+    "villager": ["assets/villager.png", 16, 32],
+    "fireright": ["assets/fireright.png", 96, 96]
+  },
+  "fonts": {
+  },
+  "sounds": {
+  },
+  "music": {
+  },
+  "json": {
+  }
+}
